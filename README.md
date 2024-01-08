@@ -29,5 +29,3 @@ Feel free to contribute by forking the repository, making your changes, and subm
 This project is under the [MIT License](LICENSE).
 
 ---
-
-This condensed version provides a quick overview of the project and its functionalities. Feel free to further tailor it to fit your preferences or provide additional details if necessary.
