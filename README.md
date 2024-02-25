@@ -8,7 +8,7 @@ A SQL-based login system allowing user registration, login, password reset, and 
 
 ## Features
 
-- Secure login authentication
+- User login
 - User registration
 - Password reset functionality
 - Email existence verification
